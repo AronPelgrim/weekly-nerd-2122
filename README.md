@@ -1,4 +1,6 @@
 # Weekly Nerd
+Tijdens de minor Web Design & Development werden een aantal workshops, praatjes en lezingen van bedrijven en designers over in vakgebied georganiseerd om hier kennis mee te maken. Daarop aansluitend heb ik drie artikelen geschreven die te maken hebben met deze sessies in het vakgebied.
+
 ## 🧑‍💻 [Weekly Nerd](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Weekly-Nerd)
 1. [Cyd Stumpel](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Weekly-Nerd#cyd-stumpel)
 2. [Alvaro Montoro](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Weekly-Nerd#alvaro-montoro)
