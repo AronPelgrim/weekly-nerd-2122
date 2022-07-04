@@ -19,5 +19,5 @@ Tijdens de minor Web Design & Development werden een aantal workshops, praatjes 
 
 ## :memo: [Artikelen](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen)
 1. [Vanilla JavaScript vs frameworks](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen#vanilla-javascript-vs-frameworks)
-2. [Helderheid over CSS units](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen#helderheid-over-css-units)
-3. [Responsive typografie met CSS clamp](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen#responsive-typografie-met-css-clamp)
+2. [Clarity about CSS units](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen#clarity-about-css-units)
+3. [Responsive typography with CSS clamp](https://github.com/AronPelgrim/weekly-nerd-2122/wiki/Artikelen#responsive-typography-with-css-clamp)
